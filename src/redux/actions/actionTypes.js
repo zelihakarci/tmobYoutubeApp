@@ -1,0 +1,5 @@
+export const SET_REGION = 'SET_REGION';
+export const GET_VIDEO_LIST = 'GET_VIDEO_LIST';
+export const GET_VIDEO_LIST_SUCCESS = 'GET_VIDEO_LIST_SUCCESS';
+export const GET_VIDEO_LIST_FAIL = 'GET_VIDEO_LIST_FAIL';
+export const SET_LOADING = 'SET_LOADING';
